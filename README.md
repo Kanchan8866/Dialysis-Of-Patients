@@ -23,6 +23,9 @@ Emphasis is placed on evaluating ratings, distinguishing between profit and non-
 #### 8. Different Dialysis Offered:
    - Analyzing the availability and provision of different dialysis modalities, including In-center hemodialysis, Peritoneal dialysis, and Home hemodialysis training.
 
+
+![Excel Dialysis Dashboard Image](https://github.com/Kanchan8866/Dialysis-Of-Patients/assets/159992336/6de93f0f-4e04-4419-bb77-745139662574)
+
 ## Key Insights
 The average payment reduction rate across dialysis centers stands at 0.321%. it's observed that 352 chain organizations have not been assigned scores. 
 
