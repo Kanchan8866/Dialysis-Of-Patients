@@ -1,5 +1,7 @@
 # Dialysis-Of-Patients
 
+Tool Used : Excel
+
 ## Introduction 
 Explore the intricate domain of Dialysis Centers, pivotal components within the healthcare services realm. In this project, delve into two datasets, Dialysis1 and Dialysis2, both CSV files with 7000+ records. The overarching goal is to gain profound insights into the operations, certifications, and network affiliations of dialysis facilities.
 Emphasis is placed on evaluating ratings, distinguishing between profit and non-profit structures, unraveling chain ownership intricacies, investigating late-shift availabilities, and assessing the number of dialysis stations. This initiative, focused on providing invaluable insights, aims to guide healthcare strategies, enhance patient outcomes, and contribute actively to the optimization of dialysis services.
